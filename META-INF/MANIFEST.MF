@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-08-02
+Pega-Codeset-Version: 06-01-01
+ArtifactName: VehicleI
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2023-Mar-12 00:00:00
+PRPC-Engine: 8.8.1 PRPC-8.8.1-161 ()
+Operator: damarla.prathyusha@cognizant.com
+ArtifactType: application
+Pega-Archive-Type: ApplicationBundle
+Name: VehicleI_010101_20230312T104305_GMT.zip
+Archive-Type: PegaArchive
+Export-Date: 2023-Mar-12 06:43:13
+Pega-Codeset-Name: Customer
+Instance-Count: 2859
+
+Name: FileMetadata
+
